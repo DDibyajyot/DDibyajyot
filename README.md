@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey there! I'm Deepam Dibyajyot! 🚀
+---
+I'm a software engineer passionate about data science, machine learning, and creating impactful solutions through full-stack development.
 
-<!--
-**DDibyajyot/DDibyajyot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 **Currently seeking roles in Data Engineering, Machine Learning Engineering, and Full-Stack Development**.
+- 🎓 Pursuing a **Bachelor's in Computer Science ('26)** @ University of Waterloo.
+- 💻 Skilled in **Python**, **JavaScript**, **SQL**, and libraries such as **Pandas**, **NumPy**, and **Scikit-Learn**.
+- 📈 Experienced in **data visualization** with tools like **Matplotlib** and **D3.js**.
+- 🔧 Experienced with **full-stack development** using frameworks such as **Next.js**, **Node.js**, and **Svelte**.
+- 🛠 Worked at **XE.com**, **CAA Club Group**, and the **Waterloo Aerial Robotics Group**, contributing to projects like **predictive maintenance models**, **UAV systems**, and **image registration tools**.
+
+---
+### 🛠️ Tools and Technologies
+
+- **Languages:** Python, JavaScript/TypeScript, SQL, C, C++, Racket, Bash, Golang
+- **Libraries/Frameworks:** Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow, React.js, Next.js, Svelte, Node.js, OpenCV, D3.js
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLAlchemy
+- **Dev Tools:** Git, Docker, Figma, GitLab, Jira, Asana, Vercel
+
+---
+
+### Connect with Me
+
+I'm always open to collaborating and making something new happen. Let's connect:
+
+- **Portfolio:** [deepamdibyajyot.com](https://deepamdibyajyot.com)
+- **LinkedIn:** [linkedin.com/in/deepamdibyajyot](https://www.linkedin.com/in/deepamdibyajyot/)
+- **Email:** dibyajyotdeepam@gmail.com
+
+When I'm not coding, you'll fine me exploring the cosmos. As an avid **astronomy** enthusiast and a passionate **stargazer**, I'm constantly reaching for the stars — whether it's through technology or the wonders of the universe. 🌌
+
+**Ad astra per aspera** ✨  
