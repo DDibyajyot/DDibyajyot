@@ -31,6 +31,7 @@ I'm always open to collaborating and making something new happen. Let's connect:
 - **Portfolio:** [deepamdibyajyot.com](https://deepamdibyajyot.com)
 - **LinkedIn:** [linkedin.com/in/deepamdibyajyot](https://www.linkedin.com/in/deepamdibyajyot/)
 - **Email:** dibyajyotdeepam@gmail.com
+
 You can find my resume [here](https://deepamdibyajyot.me/assets/resume.pdf)!
 
 When I'm not coding, you'll find me exploring the cosmos. As an avid **astronomy** enthusiast and a passionate **stargazer**, I'm constantly reaching for the stars — through technology or the wonders of the universe. 🌌
