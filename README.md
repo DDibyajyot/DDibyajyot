@@ -28,7 +28,7 @@ Welcome to my GitHub profile!
 
 I'm always open to collaborating and making something new happen. Let's connect:
 
-- **Portfolio:** [deepamdibyajyot.com](https://deepamdibyajyot.com)
+- **Portfolio:** [deepamdibyajyot.com](https://deepamdibyajyot.me)
 - **LinkedIn:** [linkedin.com/in/deepamdibyajyot](https://www.linkedin.com/in/deepamdibyajyot/)
 - **Email:** dibyajyotdeepam@gmail.com
 
