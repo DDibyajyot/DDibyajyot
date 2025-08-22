@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 - 💻 Skilled in **Python**, **JavaScript**, **SQL**, and libraries such as **Pandas**, **NumPy**, and **Scikit-Learn**.
 - 📈 Experienced in **data visualization** with tools like **Matplotlib** and **D3.js**.
 - 🔧 Experienced with **full-stack development** using frameworks such as **Next.js**, **Node.js**, and **Svelte**.
-- 🛠 Worked at **XE.com**, **CAA Club Group**, and the **Waterloo Aerial Robotics Group**, contributing to projects like **predictive maintenance models**, **UAV systems**, and **image registration tools**.
+- 🛠 Worked at **OmniBiz**, **XE.com**, **CAA Club Group**, and the **Waterloo Aerial Robotics Group**, contributing to projects like **predictive forecast and procurement models**, **predictive maintenance models**, **UAV systems**, and **image registration tools**.
 
 ---
 ### 🛠️ Tools and Technologies
