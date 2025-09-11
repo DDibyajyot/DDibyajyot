@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 
 ### About Me
 
-- 🔍 **Currently seeking roles in Data Engineering, Machine Learning Engineering, and Full-Stack Development**.
+- 🔍 **Currently seeking roles in SWE, Data Engineering, and Full-Stack Development**.
 - 🎓 Pursuing a **Bachelor's in Computer Science ('26)** @ University of Waterloo.
 - 💻 Skilled in **Python**, **JavaScript**, **SQL**, and libraries such as **Pandas**, **NumPy**, and **Scikit-Learn**.
 - 📈 Experienced in **data visualization** with tools like **Matplotlib** and **D3.js**.
